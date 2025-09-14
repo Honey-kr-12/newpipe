@@ -1,0 +1,21 @@
+{
+  "name": "newpipe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Honey-kr-12/newpipe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Honey-kr-12/newpipe/issues"
+  },
+  "homepage": "https://github.com/Honey-kr-12/newpipe#readme",
+  "description": ""
+}
